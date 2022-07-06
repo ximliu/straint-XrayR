@@ -15,7 +15,7 @@ A Xray backend framework that can easily support many panels.
 
 ## 免责声明
 
-本项目只是本人个人学习开发并维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
+本项目只是本人个人学习开发并不维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
 
 ## 特点
 
@@ -88,10 +88,14 @@ wget -N https://raw.githubusercontents.com/straint/XrayR-script/master/install.s
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/straint/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
 [XrayR后端讨论](https://t.me/XrayR_project)
 
 [XrayR通知](https://t.me/XrayR_channel)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/straint/XrayR.svg)](https://starchart.cc/straint/XrayR)
