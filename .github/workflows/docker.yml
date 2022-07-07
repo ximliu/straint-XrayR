@@ -16,7 +16,7 @@ jobs:
         id: docker_meta
         uses: crazy-max/ghaction-docker-meta@v1
         with:
-          images: warks/xrayr
+          images: ximliu/straint-XrayR
           tag-semver: |
             {{version}}
             {{major}}.{{minor}}
